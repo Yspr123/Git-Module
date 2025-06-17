@@ -6,4 +6,6 @@ function gitmodule(){
   )
 }
 
+console.log('hello')
+
 console.log("this is coming from featurbranch")
